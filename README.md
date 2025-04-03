@@ -15,7 +15,7 @@ This backend is designed to be deployed as a Hugging Face Space.
 5.  **Hugging Face Account:** You need an account on [huggingface.co](https://huggingface.co/).
 
 ### Setup Instructions
-
+ 
 1.  **Create a Hugging Face Space:**
     *   Go to "New" -> "Space".
     *   Give it a name.
