@@ -1,0 +1,27 @@
+# backend/.dockerignore
+
+# Git files
+.git
+.gitignore
+
+# Python cache and virtual environments
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+venv
+.venv
+env
+ENV
+*.env
+
+# IDE / Editor files
+.idea
+.vscode
+*.swp
+
+# Local development files (if any)
+# Example: *.log
+
+# README (not needed in image)
+README.md
