@@ -28,8 +28,8 @@ export function ContactSection() {
 
   const developers: Developer[] = [
     { name: 'Sonu Prasad', role: 'Lead Developer', image: 'https://i.ibb.co/h1dhH1Vz/sonuji.jpg', linkedin: 'https://www.linkedin.com/in/sonu-prasad23/', github: 'https://github.com/sonuprasad23/' },
-    { name: 'Srushti Patwa', role: 'AI Engineer', image: 'https://i.ibb.co/v6TwNhb8/Srusht-img.jpg', linkedin: 'https://www.linkedin.com/in/srushti-patwa14/', github: 'https://github.com/srushti-21/' },
-    { name: 'Gauri Pansare', role: 'Frontend Developer', image: 'https://i.ibb.co/84XPdRcH/1733760879514.jpg', linkedin: 'https://www.linkedin.com/in/gauri-pansare-833a9a277/', github: 'https://github.com/' } // Placeholder Github
+    { name: 'Srushti Patwa', role: 'ML Engineer', image: 'https://i.ibb.co/v6TwNhb8/Srusht-img.jpg', linkedin: 'https://www.linkedin.com/in/srushti-patwa14/', github: 'https://github.com/srushti-21/' },
+    { name: 'Gauri Pansare', role: 'AI Engineer', image: 'https://i.ibb.co/84XPdRcH/1733760879514.jpg', linkedin: 'https://www.linkedin.com/in/gauri-pansare-833a9a277/', github: 'https://github.com/' } // Placeholder Github
   ];
 
   const whatsappChannelUrl = "https://whatsapp.com/channel/0029Vb5jFRdG8l5CMM08Nj3M";
